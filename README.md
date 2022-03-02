@@ -6,7 +6,7 @@
 
 ## Description
 
-This page can viewed at this <a href="">link.</a>_
+This page can viewed at this <a href="https://poldiee.github.io/port1/">link.</a>_
 
 ## Setup/Installation Requirements
 
@@ -28,4 +28,4 @@ This page can viewed at this <a href="">link.</a>_
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2020 **David Njagi**
+Copyright (c) 2022 **poldiee**
