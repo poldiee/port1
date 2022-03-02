@@ -52,10 +52,15 @@
   }
   
   #background-color {
-    background-color: #310c11;
+    background-color: #190c31;
   }
 
   #H2 {
     font-weight: bold; 
     color: black;
+  }
+  .box{
+    background-image: url(../images/manu.jpeg);
+    padding: 200px;
+    margin: 100px;
   }
