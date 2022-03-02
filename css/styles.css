@@ -1,0 +1,56 @@
+#pic-box-model {
+    margin: 6px;
+    border: 2px solid #0D0C31;
+    padding: 4px;
+    background-color: #0D0C31;
+  }
+  
+  #my-picture {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    float: right;
+    width: auto;
+    height: auto;
+  }
+  
+  .about-me-text {
+    color: white;
+  }
+  
+  .above-project-text {
+  padding-bottom: 50px;
+  
+  }
+  
+  #above-project-text {
+    color: white;
+  }
+  
+  #project-list-heading {
+    background-color: #0D0C31;
+  }
+  
+  #project-list1 {
+    background-color: #ECFDF3;
+  }
+  
+  #pic-panel-color {
+    color: #0D0C31;
+  }
+  
+  .top-left-panel {
+    font-family: sans-serif;
+    margin-bottom: 30px;
+  
+  }
+  
+  #top-header {
+    color: #C7E3F2;
+    text-align: center;
+  }
+  
+  #background-color {
+    background-color: #0D0C31;
+  }
