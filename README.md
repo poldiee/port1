@@ -1,18 +1,18 @@
-# _Professional Portfolio of Geoff Goetz_
+#Portfolio of David
 
-#### _This is the professional portfolio of Geoff Goetz, 10 January 2020_
+#### _This is the professional portfolio of David, 02, March, 2020_
 
-#### By _**Geoff Goetz**_
+#### By _**David Njagi**_
 
 ## Description
 
-_Here in contains the coding portfolio of Geoff Goetz. You will find a number of projects and works Geoff has contributed too as well as worked solo on to demonstrate his skill and abilities.This page can viewed at this <a href="https://pieharder.github.io/Portfolio-Landing-Page/">link.</a>_
+This page can viewed at this <a href="">link.</a>_
 
 ## Setup/Installation Requirements
 
-* _First, clone this repository to your desktop by navigating to the desktop in the Terminal ("cd desktop") and then entering "git clone" followed by the link to this repository._
+* You can clone this repository to your desktop by navigating to the desktop in the Terminal ("cd desktop") and then entering "git clone" followed by the link to this repository._
 * _Once the directory is cloned to your desktop, open the directory in Visual Studio Code by entering the command "code ." in the Terminal._
-* _Open index.html in a browser of your choice.(Google Chrome is recomended.)_
+* _Open index.html in a browser of your choice.(Google Chrome is recomended.) and you can view the page.
 
 ## Technologies Used
 
@@ -28,4 +28,4 @@ _Here in contains the coding portfolio of Geoff Goetz. You will find a number of
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_Geoff Goetz_**
+Copyright (c) 2020 **David Njagi**
