@@ -28,8 +28,4 @@ This page can viewed at this <a href="https://poldiee.github.io/port1/">link.</a
 
 *This software is licensed under the MIT license*
 
-<<<<<<< HEAD
-Copyright (c) 2022 **David Njagi**
-=======
 Copyright (c) 2022 **poldiee**
->>>>>>> 3f77b79607886703472864b2288ad8f9ae0fe0d1
